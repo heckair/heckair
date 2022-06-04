@@ -19,13 +19,18 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/heckair/heckair/29c3200e00b3e13f9d45610e2ed5960876df8dbd/hecker.svg" alt="hecker" />
 </h1>
-<p align="center"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+
+<a href="hecker-stats">
+  <img src="https://raw.githubusercontent.com/heckair/heckair/7f11007db91f950c4a63bf1c7464409e6cdba1f2/stats.svg" alt="macropower" align="right" />
+</a>
+<h3 align="left">🐞 I can work with :</h3>
+<p align="left"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
 
-<h3 align="center">🐤 My Discord :</h3>
+<h3 align="left">🐤 My Discord :</h3>
 <a href="https://discord.com/users/754358880170934306">
-    <p align="center"><img src="https://lanyard-profile-readme.vercel.app/api/754358880170934306"></p>
+    <p align="left"><img src="https://lanyard-profile-readme.vercel.app/api/754358880170934306"></p>
 </a>
 
 <div align="center">
