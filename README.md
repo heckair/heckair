@@ -24,7 +24,7 @@ const hecker = {
 }
 ```
 
-<h2 align="center"> Copyright © 2020 - 2022  
+<h2 align="center"> Copyright © 2019 - 2022  
 
 
 <!--<a href="#">
