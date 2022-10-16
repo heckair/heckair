@@ -24,6 +24,8 @@ const hecker = {
 }
 ```
 
+<h2 align="center"> Copyright © 2020 - 2022  
+
 
 <!--<a href="#">
 ![](https://raw.githubusercontent.com/heckair/heckair/7f11007db91f950c4a63bf1c7464409e6cdba1f2/stats.svg)
