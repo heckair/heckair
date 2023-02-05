@@ -1,6 +1,6 @@
 <h2> Hello, I'm Ben. <img src="https://github.com/heckair/heckair/blob/main/duck.gif?raw=true" width="25"></h2>
 <img align='right' src="https://cdn.discordapp.com/attachments/959719530261803019/1063456901871972352/SweatyWelcome.png" width="100">
-<p>CEO & Developper of <a href="https://cipher-leaks.me">Cipher Leaks</a> <img src="https://i.imgur.com/clLPukg.png" width="20"></br>Admin of <a href="#">Cipher Trading </a><img src="https://cdn.discordapp.com/attachments/835888981425651782/1055608825513783356/wb.png" width="20"> 
+<p>CEO & Developper of <a href="https://cipher-leaks.me">Cipher Community</a> <img src="https://i.imgur.com/clLPukg.png" width="20"></br>Admin of <a href="#">Cipher Trading </a><img src="https://cdn.discordapp.com/attachments/835888981425651782/1055608825513783356/wb.png" width="20"> 
 </em></p>
 
 <a href="https://discord.com/users/754358880170934306">
@@ -16,7 +16,7 @@ const hecker = {
   pronouns: "he" | "him",
   code: [HTML, Css, Javascript, Python],
   projects: {
-                        ceo: "cipher-leaks.me", // The best sharing forum
+                        ceo: "cipher-leaks.me", // Sharing Forum, Game server host & Crypto Alerts and Analysis
                         inventor: "cipher-trading.com", // A trading community
                         developper: "sweatylife.club", // A Garry's Mod French Rp Server
                       },
